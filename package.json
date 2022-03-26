@@ -1,0 +1,29 @@
+{
+  "name": "hw10-team-profile-generator",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsoroma/HW10-Team-Profile-Generator.git"
+  },
+  "keywords": [
+    "profile",
+    "generator",
+    "GT",
+    "Bootcamp"
+  ],
+  "author": "Raquel Watson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsoroma/HW10-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/nsoroma/HW10-Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7"
+  }
+}
